@@ -1,5 +1,4 @@
 
-```markdown
 # 🎮 **Laberinto en C++:**
 
 Un juego de laberinto interactivo para terminal Linux, ahora desarrollado en C++. Navega por un laberinto lleno de paredes, encuentra la salida y compite contra ti mismo para resolverlo en el menor número de movimientos.
@@ -26,7 +25,9 @@ Este programa es un juego de laberinto que puedes jugar directamente en la termi
 ## 🛠️ **Cómo compilar y ejecutar**
 
 1. Descarga los archivos del proyecto en una carpeta de tu equipo.
+
 ⚠️ **Importante**: asegúrate que estén descomprimidos antes de usarlos.
+
 2. Asegúrate de tener un compilador de C++ (como `g++`) instalado.
 3. Abre una terminal desde la carpeta donde están los archivos.
 4. Compila el programa escribiendo en la terminal:
