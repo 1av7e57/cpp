@@ -85,5 +85,3 @@ Este proyecto está bajo la licencia MIT. Puedes usarlo, modificarlo y distribui
 ---
 
 > ✅ **Nota**: El código ha sido modernizado a C++ para mejorar su estructura y mantenibilidad, pero la experiencia de juego es idéntica a la versión original en C.
-```
----
